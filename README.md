@@ -8,6 +8,6 @@
 
 <br>
 
-[![repulsive-equity github stats](https://github-readme-stats.vercel.app/api?&username=repulsive-equity&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/repulsive-equity/repulsive-equity)
+[![repulsive-equity github stats](https://github-readme-stats.vercel.app/api?&username=repulsive-equity&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/repulsive-equity/repulsive-equity)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=repulsive-equity&layout=compact&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/repulsive-equity/repulsive-equity)
 
