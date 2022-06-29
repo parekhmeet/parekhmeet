@@ -5,6 +5,7 @@
      <br>
         I'm Meet, a Student, and Linux enthusiast.
     </b>
+    <br>
      <b>
         ~ Meet Parekh ~
       </b>
