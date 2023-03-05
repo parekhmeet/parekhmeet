@@ -1,9 +1,9 @@
 <p align="center">
   <samp>
     <b>
-      Hello There
+      Hello There  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
      <br>
-        I'm Meet, a Student, and Linux enthusiast.
+        I'm Meet, a Student and Linux enthusiast.
     </b>
     <br>
      <b>
