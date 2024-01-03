@@ -1,5 +1,8 @@
 # 💫 About Me:
-SRE passionate about open source.<br>Delving into Linux kernel intricacies. <br>Proficient in Docker, K8s, Shell Scripting, and CI/CD. <br>Contributing and learning every day. 
+👋 Hi, I’m Meet Parekh
+👀 I’m interested in Linux, AWS, Shell scripting, Docker, K8s and much more...
+🌱 I’m currently learning K8s and CI/CD.
+📫 How to reach me: parekhmeet17@gmail.com.
 
 
 ## 🌐 Socials:
