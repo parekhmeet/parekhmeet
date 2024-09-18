@@ -2,7 +2,7 @@
 👋 Hi, I’m Meet Parekh<br>
 👀 I’m interested in Linux, AWS, Shell scripting, Docker, K8s and much more...<br>
 🌱 I’m currently learning K8s and CI/CD.<br>
-📫 How to reach me: parekhmeet17@gmail.com.<br>
+📫 How to reach me: parekhmeet1811@gmail.com.<br>
 
 
 ## 🌐 Socials:
